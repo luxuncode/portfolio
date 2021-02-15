@@ -1,4 +1,4 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
+# Agus Riyadi Resume Starter Pack and Digital Portfolio
 
 ![Agus Riyadi Portfolio Starter Pack and Digital Portfolio](resume-screenshot.jpg?raw=true "Agus Riyadi's portfolio ")
 
